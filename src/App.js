@@ -192,7 +192,7 @@ const About = () => {
                 <p>Years Experience</p>
               </div>
               <div className="stat">
-                <h3>30+</h3>
+                <h3>20+</h3>
                 <p>Happy Clients</p>
               </div>
             </div>
